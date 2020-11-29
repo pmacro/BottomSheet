@@ -5,7 +5,7 @@ let package = Package(
     name: "FINNBottomSheet",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v14)
+        .iOS(.v11)
     ],
     products: [
         .library(name: "FINNBottomSheet", targets: ["FINNBottomSheet"])
